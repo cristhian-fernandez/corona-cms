@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_logo_logos",
+  "info": {
+    "displayName": "Logo"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    }
+  }
+}
